@@ -1,0 +1,29 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "App of GeekQlick web studio",
+    "short_name": "GeekQlick",
+    "icons": [
+        {
+            "src": "images/favicon/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#6532b5",
+    "background_color": "#6532b5",
+    "description": "The app that helps you optimise your web site!",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "natural"
+}
